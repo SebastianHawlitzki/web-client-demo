@@ -6,7 +6,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 
 import java.util.List;
 
-public class Webclient {
+public class Aufgabe2Client {
     WebClient webClient2 = WebClient.create("https://eokz7vcsigzeiih.m.pipedream.net");
 
    public Aufgabe2 message(){
